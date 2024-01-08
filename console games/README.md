@@ -38,4 +38,4 @@ The analysis reveals insights into the popularity of console games across differ
 
 ## Acknowledgments
 - The dataset used in this project was obtained from Kaggle.com.
-- Special thanks to @AnnaTarassyuk for their guidance and support.
+- Special thanks to [@AnnaTarassyuk](https://github.com/AnnaTarassyuk) for their guidance and support.
