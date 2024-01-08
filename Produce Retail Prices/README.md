@@ -6,11 +6,11 @@ This project analyzes the retail prices of fruits and vegetables in different re
 
 The dataset used in this project includes data points such as:
 
--Product Name: Identifies the name of the produce item
--Date: Specifies the pricing information date
--Farm Price: Reflects the selling price of the produce on the farm
--Retail Prices: Indicates retail prices in the major US cities (Atlanta, Chicago, Los Angeles, New York)
--Average Spread: Represents the percentage denoting the average markup between farm and retail prices prices.
+- Product Name: Identifies the name of the produce item
+- Date: Specifies the pricing information date
+- Farm Price: Reflects the selling price of the produce on the farm
+- Retail Prices: Indicates retail prices in the major US cities (Atlanta, Chicago, Los Angeles, New York)
+- Average Spread: Represents the percentage denoting the average markup between farm and retail prices.
 
 The notebook contains the following sections:
 
